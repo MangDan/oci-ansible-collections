@@ -3,6 +3,6 @@
     - oracle.oci
   hosts: localhost
   tasks:
-  - name: Installing oci python library using Ansible pip module
-    pip:
-      name: oci
+    - name: Installing oci python library using Ansible pip module
+      pip:
+        name: oci
