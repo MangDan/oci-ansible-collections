@@ -14,3 +14,4 @@ hostname_format_preferences:
   - "display_name+'.oci.com'"
   - "private_ip"
   - "public_ip"
+primary_vnic_only: true
