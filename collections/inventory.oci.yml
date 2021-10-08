@@ -1,9 +1,9 @@
 plugin: oracle.oci.oci
-#cache: yes
-#cache_plugin: jsonfile
-#cache_timeout: 600
-#cache_connection: /tmp/oci_inventory
-#cache_prefix: oci
+cache: yes
+cache_plugin: jsonfile
+cache_timeout: 600
+cache_connection: /tmp/oci_inventory
+cache_prefix: oci
 #regions: all
 regions:
   - ap-seoul-1
