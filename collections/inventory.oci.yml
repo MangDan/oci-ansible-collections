@@ -11,5 +11,4 @@ fetch_db_hosts: false
 fetch_compute_hosts: true
 #hostname_format: fqdn
 hostname_format_preferences:
-  - "display_name+'-'+private_ip"
   - "private_ip"
